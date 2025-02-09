@@ -35,7 +35,7 @@ public class Main {
             System.out.println("Эликсир стойкости");
         }
         if (skrit) {
-            System.out.println("Эликсир срытности");
+            System.out.println("Эликсир скрытности");
         }
         if (zapret) {
             System.out.println("Запретный Эликсир!!!!!!!!!!!!!!");
